@@ -1,0 +1,2 @@
+# Virus.exe
+Desligar computador
